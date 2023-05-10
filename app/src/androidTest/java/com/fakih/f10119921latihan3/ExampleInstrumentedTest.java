@@ -1,4 +1,4 @@
-package com.albeeak.f10119921latihan3;
+package com.fakih.f10119921latihan3;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
